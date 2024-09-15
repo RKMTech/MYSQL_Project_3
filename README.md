@@ -30,7 +30,7 @@ This is one of my projects to showcase my progress in **SQL** and my improvement
 These queries collectively aim to help me enhance my SQL skills as they include a whole lot of complex CRUD, functions, logical operators and many more queries.
 
 Here's how I approached one of the question:
-### 5. Find the top 5 customers with the most number of transactions
+### 3.  Which product sells more boxes? Milk Bars or Eclairs?
 ```sql
 SELECT 
     product,
@@ -43,7 +43,7 @@ OR product = 'milk bars'
 GROUP BY product
 ORDER BY total_boxes DESC;
 ````
-- Eclairs sold the most boxes
+- Eclairs sells the most boxes
 
 # Conclusion
 

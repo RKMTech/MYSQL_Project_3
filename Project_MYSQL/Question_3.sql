@@ -16,7 +16,7 @@ ORDER BY total_boxes DESC;
 
 /*
 
-- Eclairs sold the most boxes
+- Eclairs sells the most boxes
 
 - RESULTS
 
