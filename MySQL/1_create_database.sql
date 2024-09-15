@@ -1,0 +1,1 @@
+CREATE DATABASE happy_chocolate_store;
